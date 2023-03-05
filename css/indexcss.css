@@ -260,6 +260,11 @@ h4{
     .recipe-img{
         height: 15rem;
     }
-
+    .recipe h5 {
+        font-size: 28rem;
+    }
+    .recipe h6 {
+        font-size: 20rem;
+    }
 }
 
